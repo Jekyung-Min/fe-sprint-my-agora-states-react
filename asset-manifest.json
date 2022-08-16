@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-agora-states-react/static/css/main.f4781f41.css",
-    "main.js": "/my-agora-states-react/static/js/main.7756a214.js",
-    "index.html": "/my-agora-states-react/index.html",
-    "main.f4781f41.css.map": "/my-agora-states-react/static/css/main.f4781f41.css.map",
-    "main.7756a214.js.map": "/my-agora-states-react/static/js/main.7756a214.js.map"
+    "main.css": "/fe-sprint-my-agora-states-react/static/css/main.f4781f41.css",
+    "main.js": "/fe-sprint-my-agora-states-react/static/js/main.7756a214.js",
+    "index.html": "/fe-sprint-my-agora-states-react/index.html",
+    "main.f4781f41.css.map": "/fe-sprint-my-agora-states-react/static/css/main.f4781f41.css.map",
+    "main.7756a214.js.map": "/fe-sprint-my-agora-states-react/static/js/main.7756a214.js.map"
   },
   "entrypoints": [
     "static/css/main.f4781f41.css",
